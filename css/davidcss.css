@@ -3,6 +3,7 @@ body {
     font-size: 20px;
     color: #212529;
     font-family: 'Artifika', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 p {
@@ -17,6 +18,7 @@ p a {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 800;
     font-family: 'Artifika', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -79,6 +81,7 @@ img::-moz-selection {
     border-bottom: 1px solid #e9ecef;
     background-color: white;
     font-family: 'Artifika', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 #mainNav .navbar-brand {
@@ -168,26 +171,27 @@ img::-moz-selection {
 }
 
 header.masthead {
-  margin-bottom: 50px; /* Margin space between slate grey container and first post */
-  background: no-repeat center center;
-  background-color: #868e96;
-  background-attachment: scroll;
-  position: relative;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    margin-bottom: 50px; /* Margin space between slate grey container and first post */
+    background: no-repeat center center;
+    background-color: #212529;
+    background-attachment: scroll;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
-header.masthead .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 96%;
-  width: 100%;
-  background-color: #212529; 
-  opacity: 0.5;
-}
+    header.masthead .overlay {
+        position: absolute; 
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-color: #212529;
+        opacity: .8;
+        background-image: url("../../media/examples/lizard.png");
+    }
 
 header.masthead .page-heading,
 header.masthead .post-heading,
@@ -223,6 +227,7 @@ header.masthead .site-heading h1 {
         display: block;
         margin: 5px 0 0;
         font-family: 'Artifika', serif;
+        font-family: 'Roboto', sans-serif;
     }
 
 @media only screen and (min-width: 768px) {
@@ -247,6 +252,7 @@ header.masthead .post-heading .subheading {
     font-weight: 600;
     margin: 10px 0 30px;
     font-family: 'Artifika', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 header.masthead .post-heading .meta {
@@ -254,6 +260,7 @@ header.masthead .post-heading .meta {
     font-weight: 300;
     font-style: italic;
     font-family: 'Artifika', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 header.masthead .post-heading .meta a {
@@ -264,6 +271,7 @@ header.masthead .post-heading .meta a {
     header.masthead .post-heading h1 {
         font-size: 55px;
         font-family: 'Artifika', serif;
+        font-family: 'Roboto', sans-serif;
     }
   header.masthead .post-heading .subheading {
     font-size: 20px;
@@ -312,6 +320,7 @@ post-preview > a > .post-title {
     .post-preview > a > .post-title {
         font-size: 27px;
         font-family: 'Artifika', serif;
+        font-family: 'Roboto', sans-serif;
     }
 }
 
@@ -335,12 +344,14 @@ post-preview > a > .post-title {
         background: none;
         box-shadow: none !important;
         font-family: 'Artifika', serif;
+        font-family: 'Roboto', sans-serif;
     }
 
         .floating-label-form-group input::-webkit-input-placeholder,
         .floating-label-form-group textarea::-webkit-input-placeholder {
             color: #868e96;
             font-family: 'Artifika', serif;
+            font-family: 'Roboto', sans-serif;
         }
 
 .floating-label-form-group label {
@@ -400,6 +411,7 @@ footer .copyright {
     text-transform: uppercase;
     border-radius: 0;
     font-family: 'Artifika', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .btn-primary {
