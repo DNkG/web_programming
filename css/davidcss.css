@@ -103,7 +103,7 @@ img::-moz-selection
 
     #mainNav .navbar-toggler
     {
-        font-size: 13px;
+        font-size: 14px;
         font-weight: 800;
         padding: 13px;
         text-transform: uppercase;
@@ -112,7 +112,7 @@ img::-moz-selection
 
     #mainNav .navbar-nav > li.nav-item > a
     {
-        font-size: 13px;
+        font-size: 14px;
         font-weight: 800;
         letter-spacing: 1px;
         text-transform: uppercase;
@@ -170,9 +170,9 @@ img::-moz-selection
             /* when the user scrolls down, we hide the header right above the viewport */
             position: fixed;
             top: -67px;
-            -webkit-transition: -webkit-transform 0.2s;
-            -moz-transition: -moz-transform 0.2s;
-            transition: transform 0.2s;
+            -webkit-transition: -webkit-transform 1s;
+            -moz-transition: -moz-transform 1s;
+            transition: transform 1s;
             border-bottom: 1px solid white;
             background-color: rgba(255, 255, 255, 0.9);
         }
@@ -266,7 +266,7 @@ header.masthead .site-heading
     header.masthead .page-heading .subheading,
     header.masthead .site-heading .subheading
     {
-        font-size: 27px;
+        font-size: 35px;
         font-weight: 300;
         line-height: 1;
         display: block;
@@ -492,7 +492,7 @@ footer
 
     .btn-primary:hover, .btn-primary:focus, .btn-primary:active
     {
-        color: white;
+        color: mintcream;
         background-color: black !important;
         border-color: white !important;
     }
