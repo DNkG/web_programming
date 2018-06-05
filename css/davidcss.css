@@ -211,7 +211,7 @@ img::-moz-selection
 header.masthead
 {
     margin-bottom: 50px; /* Margin space between slate grey container and first post */
-    background: no-repeat center center;
+    background: repeat center center;
     background-color: #212529;
     background-attachment: scroll;
     position: relative;
