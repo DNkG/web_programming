@@ -492,8 +492,8 @@ footer
 
     .btn-primary:hover, .btn-primary:focus, .btn-primary:active
     {
-        color: mintcream;
-        background-color: black !important;
+        color: #0085A1;
+        background-color: white !important;
         border-color: white !important;
     }
 
