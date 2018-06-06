@@ -503,10 +503,9 @@ footer
     padding: 25px 35px;
 }
 
-.center
+.center-block
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
