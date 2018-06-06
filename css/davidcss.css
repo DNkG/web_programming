@@ -502,3 +502,11 @@ footer
     font-size: 1px;
     padding: 25px 35px;
 }
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
