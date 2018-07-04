@@ -39,6 +39,7 @@ a:focus, a:hover
 blockquote
 {
     font-style: italic;
+    font-size: 14px;
     color: #868e96;
 }
 
