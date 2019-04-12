@@ -168,7 +168,7 @@ img::-moz-selection
 
         #mainNav.is-fixed
         {
-            /* when the user scrolls down, we hide the header right above the viewport */
+            /* when the user scrolls down, hide the header right above the viewport */
             position: fixed;
             top: -67px;
             -webkit-transition: -webkit-transform 1s;
