@@ -1,2 +1,14 @@
 
 *.sqlite
+.vs/tasks.vs.json
+.vs/slnx.sqlite
+.vs/dnkg.github.io/v15/.suo
+.vs/config/applicationhost.config
+.vs/config/applicationhost.config
+*.config
+.vs/dnkg.github.io/v15/.suo
+*.sqlite
+*.sqlite
+*.config
+.vs/dnkg.github.io/v15/.suo
+*.config
